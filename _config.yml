@@ -6,7 +6,7 @@
 name: NB-15
 
 # Short bio or description (displayed in the header)
-description: A goalkeeper in football. Check out my YouTube channel, Toxictarsier!
+description: A goalkeeper in football, and a Y9 student attempting to code Git. Be sure to check out my YouTube channel, Toxictarsier!
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -25,7 +25,7 @@ footer-links:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
-  pinterest:
+  pinterest: Nathan Burke
   rss: There's this too!
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
