@@ -2,7 +2,7 @@
 title: Starting GitHub | Week 1 |
 layout: post
 author: nathan.burke
-permalink: /using-giwthub-week-1/
+permalink: /using-github-week-1/
 source-id: 1rOmCbb8yN50Y70VaDY-8fAv2_cHsUKWgawnCVgIeWzo
 published: true
 ---
