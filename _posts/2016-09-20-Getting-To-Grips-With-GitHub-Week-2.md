@@ -1,5 +1,5 @@
 ---
-title: Getting To Grips With GitHub Week 2
+title: Getting To Grips With GitHub | Week 2 |
 layout: post
 author: nathan.burke
 permalink: /getting-to-grips-with-github-week-2/
