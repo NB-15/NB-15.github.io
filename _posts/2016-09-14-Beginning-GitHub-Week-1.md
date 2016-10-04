@@ -1,5 +1,5 @@
 ---
-title: Starting Github Week 1
+title: Starting Github | Week 1 |
 layout: post
 author: theo.grant
 permalink: /using-github-week-1/
