@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Ironing out the aesthetics on GitHub (At Home) | Week 4 |</td>
+    <td>Ironing out the aesthetics</td>
     <td>Date</td>
     <td>28/09/16</td>
   </tr>
