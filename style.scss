@@ -13,6 +13,13 @@
 /* BASE RULES */
 /**************/
 
+table, td {
+  border: 1px solid orange;
+}
+
+td {
+  padding: 5px;
+}
 
 html {
   font-size: 100%;
