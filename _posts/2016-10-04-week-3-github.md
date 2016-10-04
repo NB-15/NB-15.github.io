@@ -1,6 +1,6 @@
 ---
 title: Advancing with GitHub | Week 3 |
-layout: poste
+layout: post
 author: nathan.burke
 permalink: /week-3-github/
 source-id: 13a1MaVO8472fGQUiywSZlvk_0LDVK28ojoSubImbdLk
