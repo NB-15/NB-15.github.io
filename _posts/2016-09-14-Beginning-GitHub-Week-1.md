@@ -1,8 +1,8 @@
 ---
 title: Starting Github | Week 1 |
 layout: post
-author: theo.grant
-permalink: /using-github-week-1/
+author: nathan.burke
+permalink: /using-giwthub-week-1/
 source-id: 1rOmCbb8yN50Y70VaDY-8fAv2_cHsUKWgawnCVgIeWzo
 published: true
 ---
