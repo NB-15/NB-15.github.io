@@ -1,5 +1,5 @@
 ---
-title: Ironing out the aesthetics on Github (At home) | Week 4 |
+title: Week 4 GitHub
 layout: post
 author: nathan.burke
 permalink: /week-4-github/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Ironing out the aesthetics</td>
+    <td>Ironing out the aesthetics on GitHub (At Home) | Week 4 |</td>
     <td>Date</td>
     <td>28/09/16</td>
   </tr>
