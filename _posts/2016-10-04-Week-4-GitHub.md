@@ -1,5 +1,5 @@
 ---
-title: Week 4 GitHub
+title: Ironing out the aesthetics on GitHub | Week 4 |
 layout: post
 author: nathan.burke
 permalink: /week-4-github/
