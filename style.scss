@@ -22,17 +22,13 @@ td {
 }
   	
 html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;	
   font-size: 100%;
 }
 
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/60/04/30/600430c1d22c731b94cf4e7dae6b398a.gif");
-    background-attachment: fixed;	
+    background-attachment: fixed;
+    width: 100%;
 }
 
 .container {
