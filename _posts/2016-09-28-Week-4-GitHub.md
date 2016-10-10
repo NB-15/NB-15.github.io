@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>An improved but still slightly crude-looking </td>
+    <td>An improved but still slightly crude-looking websitev</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
