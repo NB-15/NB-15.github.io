@@ -14,7 +14,7 @@
 /**************/
 
 table, td {
-  border: 1px solid orange;
+  border: 1px solid black;
 }
 
 td {
@@ -35,10 +35,10 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 15px;
   width: 100%;
   background: linear-gradient(to right, yellow, orange, maroon);
-  opacity: 0.9;	
+  opacity: 0.8;	
 }
 
 h1, h2, h3, h4, h5, h6 {
