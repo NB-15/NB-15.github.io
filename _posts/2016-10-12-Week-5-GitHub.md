@@ -1,5 +1,5 @@
 ---
-title: Week 5 GitHub
+title: Experimenting with small changes on GitHub | Week 5
 layout: post
 author: nathan.burke
 permalink: /week-5-github/
