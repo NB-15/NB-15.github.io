@@ -1,5 +1,5 @@
 ---
-title: Starting GitHub | Week 1 |
+title: Starting GitHub | Week 1 | My first, unedited post
 layout: post
 author: nathan.burke
 permalink: /using-github-week-1/
