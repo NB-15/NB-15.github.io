@@ -1,5 +1,5 @@
 ---
-title: Making a functioning spreadsheet | Week 6 |
+title: Making a functioning spreadsheet on Google Sheets | Week 6 |
 layout: post
 author: nathan.burke
 permalink: /week-6-github/
