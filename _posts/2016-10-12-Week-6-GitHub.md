@@ -1,5 +1,5 @@
 ---
-title: Week 6 GitHub
+title: Making a functioning spreadsheet | Week 6 |
 layout: post
 author: nathan.burke
 permalink: /week-6-github/
