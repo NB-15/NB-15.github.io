@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Making a full scale, advanced business spreadsheet</td>
     <td>Date</td>
-    <td>25/10/16</td>
+    <td>19/10/16</td>
   </tr>
 </table>
 
