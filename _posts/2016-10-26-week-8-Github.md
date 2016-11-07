@@ -1,5 +1,5 @@
 ---
-title: week 8 Github
+title: Fixing the final, frustrating errors on Sheets | Week 8 |
 layout: post
 author: nathan.burke
 permalink: /week-8-github/
