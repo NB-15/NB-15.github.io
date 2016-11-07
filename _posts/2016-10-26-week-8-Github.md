@@ -57,9 +57,7 @@ published: true
 
 The work on Sheets is here, just copy and paste the link below into your search engine:
 
-⬇️                                      ⬇️                                        ⬇️  
-
-  </tr>
+⬇️                                      ⬇️                                        ⬇️ 
                                              https://docs.google.com/spreadsheets/d/1oQ4kKyBNwdaowO7qSdFWyh5cTOsJcDEr6RO6yDtYlZA
 
 </td>
