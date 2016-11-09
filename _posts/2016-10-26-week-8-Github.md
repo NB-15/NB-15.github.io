@@ -55,14 +55,10 @@ published: true
   <tr>
     <td>Something to change for next time would definitely be the computer I use- which luckily I can since I can go back to school and use the more responsive iMacs there. Also, making my varying quantities more formula based would help- so I can change one thing and EVERYTHING else would change with it. My frustration at how long it took to get the formula right deterred me from making much more of it elsewhere. However, plenty of it was made, and it was successful too- and improving learning would just be making sure all of my formula is successful and shows high levels of understanding.
 
-The work on Sheets is here, just copy and paste the link below into your search engine:
-
-⬇️                                      ⬇️                                        ⬇️ 
-       
-https://docs.google.com/spreadsheets/d/1oQ4kKyBNwdaowO7qSdFWyh5cTOsJcDEr6RO6yDtYlZA
-
 </td>
   </tr>
 </table>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1oQ4kKyBNwdaowO7qSdFWyh5cTOsJcDEr6RO6yDtYlZA/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
