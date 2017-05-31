@@ -1,5 +1,5 @@
 ---
-title: Half term summary on github
+title: Half term summary- making a quiz! | Python on Repl.it
 layout: post
 author: nathan.burke
 permalink: /half-term-summary-on-github/
